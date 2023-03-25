@@ -1,3 +1,2 @@
-#ignore all .txt file
-*.txt
+#ignore only token file
 token.txt
